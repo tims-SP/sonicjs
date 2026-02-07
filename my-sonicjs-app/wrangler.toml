@@ -19,8 +19,8 @@ migrations_dir = "./migrations"
 
 # R2 Bucket for media storage (using CI bucket)
 [[r2_buckets]]
-binding = "MEDIA_BUCKET"
-bucket_name = "sonicjs-ci-media"
+# binding = "MEDIA_BUCKET"
+# bucket_name = "sonicjs-ci-media"
 
 # KV Cache (using CI namespace)
 [[kv_namespaces]]
