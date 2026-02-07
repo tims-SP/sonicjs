@@ -18,7 +18,7 @@ database_id = "68223153-215a-4c8f-a9bf-797f11236758"
 migrations_dir = "./migrations"
 
 # R2 Bucket for media storage (using CI bucket)
-[[r2_buckets]]
+# [[r2_buckets]]
 # binding = "MEDIA_BUCKET"
 # bucket_name = "sonicjs-ci-media"
 
